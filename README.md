@@ -5,6 +5,7 @@
 <h3 align="center">Frontend Web Developer from Biñan, Laguna</h3>
 <br/>
 <div align="center">
+    
  🔭 I’m currently working on my **Online Portfolio** and **Other Projects**
  
  🌱 I’m currently learning **ReactJS and Some JS libraries**
@@ -38,6 +39,7 @@
 <h2 align="center">🔗 Projects 🔗</h2>
 <br/>
 <div align="center">
+    
   Please Visit **MGWR PC Online**
  
   📌 https://mgwrpconline.com 📌
