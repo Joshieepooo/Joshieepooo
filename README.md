@@ -40,7 +40,11 @@
 <br/>
 <div align="center">
     
-  Please Visit **MGWR PC Online**
+Please Visit **My Portfolio**
+
+ 📌 https://joshua-lopez.vercel.app/ 📌
  
-  📌 https://mgwrpconline.com 📌
+Please Visit **MGWR PC Online**
+
+📌 https://mgwrpconline.com 📌
  </div>
