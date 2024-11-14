@@ -1,53 +1,56 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joshua+Lopez!;" />
-</h1><br>
-
-<h3 align="center">🌐 Frontend Web Developer from Biñan, Laguna 🌐</h3><br>
-
 <div align="center">
-  🔭 Working on <strong>Learning Management System</strong> & <strong>Exciting New Projects</strong> <br><br>
-  🌱 Currently learning <strong>JavaScript Libraries</strong> & <strong>Frameworks</strong> <br><br>
-  📞 Contact: 0907-163-0734
-</div><br>
+
+<h1> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joshua+Lopez!;" /> 
+</h1>
 
 ---
 
-<h2 align="center">🚀 <strong>Connect with Me</strong> 🚀</h2>
+# 💫 About Me 💫
 
-<div align="center"> 
-  <a href="mailto:jsh.lpz.main@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joshua-alen-lopez-442287255/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Joshieepooo/Joshua-Lopez-Portfolio">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div><br>
+<h3>Front-end Web Developer from Biñan, Laguna</h3><br>
+🔭 Currently working on: Building an Expense Tracker, a Weather App, and a Quiz Hosting Platform.<br>
+🌱 Currently learning: React.js, Tailwind, and Bootstrap.<br>
+👯 Looking to collaborate on: Open-source projects in web development.<br>
+🤔 Looking for help with: Implementing backend APIs.<br>
+💬 Ask me about: CSS, responsive design, and web design.<br>
+⚡ Fun fact: I have a talent for picking up new sports quickly and can learn the basics in just a few hours.
 
 ---
 
-<h2 align="center">⚒️ <strong>Languages & Tools</strong> ⚒️</h2>
+# 🌐 Socials
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,php,mysql,git,nodejs,react,npm,vite" />
-    <img src="https://skillicons.dev/icons?i=ts,java,cpp,cs,github,vscode,visualstudio,eclipse,sublime,ps,ai" />
-</div><br>
-
----
-
-<h2 align="center">📂 <strong>Projects</strong> 📂</h2>
-
-<div align="center">
-  💼 <strong><a href="https://joshua-lopez.vercel.app/">My Portfolio</a></strong> <br><br>
-  🌐 <strong><a href="https://mgwrpconline.com">MGWR PC Online</a></strong>
-</div><br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Jsh.Lpz.21) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jsh.lpz.main/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-alen-lopez/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iJoshiepooo) 
 
 ---
 
-<h2 align="center">✨ <strong>Support My Work</strong> ✨</h2>
+# 💻 Tech Stack 💻
 
-<div align="center">
-  ☕ <strong><a href="https://www.paypal.com/paypalme/iJoshuaLopez">Buy Me A Coffee on PayPal</a></strong> ☕
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,php,mysql,git,nodejs,react,npm,vite" />
+<img src="https://skillicons.dev/icons?i=ts,java,cpp,cs,github,vscode,visualstudio,eclipse,sublime,ps,ai" />
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Joshieepooo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joshieepooo&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshieepooo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Joshieepooo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## ✨ You can help me by Donating ✨
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/iJoshuaLopez) 
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Joshieepooo&icon=5&color=12)](https://visitcount.itsvg.in)
+
 </div>
